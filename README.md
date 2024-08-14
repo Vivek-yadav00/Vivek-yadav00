@@ -1,14 +1,14 @@
-<h1 align="center">Myself Rishav⚔️</h1>
+<h1 align="center">Myself Vivek Yadav/h1>
 
    
 
-<p align="center">Passionate developer with expertise in C++, Python, and many more emerging technologies.</p>
+<p align="center">Passionate developer with expertise in C,C++ and Python and many more emerging technologies.</p>
 
 
 
-- 👾 I’m currently learning **React and DSA in C++**
-- 🧠 Ask me about **Python and C++**
-- 😉 How to reach me **rishavkumar18902@gmail.com**
+- 👾 I’m currently learning **DSA in C++**
+- 🧠 Ask me about **Python,C and C++**
+- 😉 How to reach me **vivekyadavboss2004@gmail.com**
 <br> <br>
 
 <p align="center"><img src="https://media1.tenor.com/m/Rlc4Tdfd4QIAAAAd/griffith-berserk-sacrifice.gif" width="500" align="center">
