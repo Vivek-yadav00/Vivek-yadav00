@@ -12,13 +12,13 @@
 - 😉 How to reach me **vivekyadavboss2004@gmail.com**
 <br> <br>
 
-<p align="center"><img src="https://media.tenor.com/GXl6SV3xnDsAAAAC/attack-on-titan-eren.gif" width="500" align="center">
+<p align="center"><img src="https://i.pinimg.com/originals/f9/6a/1a/f96a1a40d7104e4c62f9721f53067949.gif" width="500" align="center">
 <br><br> </p>
 
 
 <h3 align="left">Add me up here:</h3> 
 <p align="left">
-<a href="https://x.com/Vivekydv242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivekydv242" height="30" width="40" /></a>
+<a href="https://x.com/Vivekydv242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivekydv242" height="100" width="40" /></a>
 <a href="https://leetcode.com/u/Vivek_mxt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vivek_mxt" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vivekyadav2399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekyadav23998" height="30" width="40" /></a>
 </p>
