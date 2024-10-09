@@ -1,14 +1,14 @@
 <h1 align="center">Myself Vivek Yadav
-   /h1>
+   </h1>
 
    
 
-<p align="center">Passionate developer with expertise in C,C++ and Python and many more emerging technologies.</p>
+<p align="center">Passionate developer with expertise in Python, C++ and C and many more emerging technologies.</p>
 
 
 
-- 👾 I’m currently learning **DSA in C++**
-- 🧠 Ask me about **Python,C and C++**
+- 👾 I’m currently learning **DSA in C++** and solving **Leet Code** questions.
+- 🧠 Ask me about **Python, C and C++**
 - 😉 How to reach me **vivekyadavboss2004@gmail.com**
 <br> <br>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Add me up here:</h3> 
 <p align="left">
-<a href="https://x.com/Rishav_050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishav_050" height="30" width="40" /></a>
+<a href="https://x.com/Rishav_050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivekydv242" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/rishavkumar18902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishavkumar18902" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rishav-kumar-48b779298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-kumar-48b779298" height="30" width="40" /></a>
 </p>
