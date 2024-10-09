@@ -12,7 +12,7 @@
 - 😉 How to reach me **vivekyadavboss2004@gmail.com**
 <br> <br>
 
-<p align="center"><img src="https://media1.tenor.com/m/Rlc4Tdfd4QIAAAAd/griffith-berserk-sacrifice.gif" width="500" align="center">
+<p align="center"><img src="https://media.tenor.com/GXl6SV3xnDsAAAAC/attack-on-titan-eren.gif" width="500" align="center">
 <br><br> </p>
 
 
