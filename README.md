@@ -18,7 +18,7 @@
 
 <h3 align="left">Add me up here:</h3> 
 <p align="left">
-<a href="https://x.com/Rishav_050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivekydv242" height="30" width="40" /></a>
+<a href="https://x.com/Vivekydv242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivekydv242" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/rishavkumar18902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishavkumar18902" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rishav-kumar-48b779298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-kumar-48b779298" height="30" width="40" /></a>
 </p>
