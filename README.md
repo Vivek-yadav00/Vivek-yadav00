@@ -12,7 +12,7 @@
 - 😉 How to reach me **vivekyadavboss2004@gmail.com**
 <br> <br>
 
-<p align="center"><img src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif" width="500" align="center">
+<p align="center"><img src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif"  height="350" width="500" align="center">
 <br><br> </p>
 
 
