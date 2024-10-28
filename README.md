@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.gif?cid=82a1493b5398mik14n0jaz2gj28hzvuw685epu0odwbb25iu&ep=v1_gifs_related&rid=200w.gif" 
-       style="height: 400px; width: 500px; border-radius: 20px;" />
+       style="height: 350px; width: 450px; border-radius: 20px;" />
 </p>
 
 
